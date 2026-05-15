@@ -1,0 +1,26 @@
+{
+  "id": "duckduckgo-search",
+  "icon": "🔍",
+  "mcpServer": {
+    "url": "http://localhost:10000/duckduckgo-search",
+    "env": {}
+  },
+  "transportType": "sse",
+  "translations": {
+    "zh": {
+      "name": "DuckDuckGo搜索",
+      "type": "搜索工具",
+      "description": "使用DuckDuckGo搜索引擎进行安全、私密的网络搜索"
+    },
+    "en": {
+      "name": "DuckDuckGo Search",
+      "type": "Search Tool",
+      "description": "Use DuckDuckGo search engine for secure and private web searches"
+    },
+    "ja": {
+      "name": "DuckDuckGo検索",
+      "type": "検索ツール",
+      "description": "DuckDuckGo検索エンジンを使用して安全でプライベートなウェブ検索を行います"
+    }
+  }
+}
