@@ -49,7 +49,6 @@ docker compose up -d
 |-----|-------------|
 | `DATABASE_URL` | PostgreSQL connection URL |
 | `SECRET_KEY` | JWT secret key |
-| `DEEPSEEK_API_KEY` | DeepSeek API key |
 | `BACKEND_CORS_ORIGINS` | Allowed CORS origins |
 
 ## API Docs
